@@ -1,4 +1,4 @@
-package com.thetestingacademy.tests.vwoLogin;
+package com.thetestingacademy.tests.vwoLogin.pageObjectModel_TestCase;
 import com.thetestingacademy.base.CommonToAllTest;
 import com.thetestingacademy.driver.DriverManager;
 import com.thetestingacademy.pages.pageObjectModel.vwo.DashboardPage_POM;
